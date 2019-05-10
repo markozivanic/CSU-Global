@@ -1,11 +1,3 @@
-# CSU-Global
-ITS320 - Basic Programming - Python
-
-This repository will include code that I wrote during my time at CSU - Global, while taking ITS320 Basic Programming in Python. 
-I am not responsible for someone using this code and getting bad grades or for plagiarism.
-
-This repository is exclusively used for me storing my code in case of losing my laptop. 
-
 Module 1 - Option #2: Create a Python Application
 Read two integers and print two lines. The first line should contain integer division, //, the second line should contain float division, /, and the third line should contain modulo division, %. You do not need to perform any rounding or formatting operations.
 
